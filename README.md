@@ -12,6 +12,6 @@ How to install?
 5. Open VoiceMod using new .exe launcher.
 6. Done!
 
-<img src="https://imag.malavida.com/mvimgbig/download-fs/voicemod-21839-1.jpg" jsaction="VQAsE" class="sFlh5c pT0Scc iPVvYb" style="max-width: 1349px; height: 400px; margin: 0px; width: 1280px;" alt="Voicemod 2.40.4.0 - Download für PC Kostenlos" jsname="kn3ccd" aria-hidden="false">
+<img src="https://imag.malavida.com/mvimgbig/download-fs/voicemod-21839-1.jpg" jsaction="VQAsE" class="sFlh5c pT0Scc iPVvYb" style="max-width: 1349px; height: 794px; margin: 0px; width: 1349px;" alt="Voicemod 2.40.4.0 - Download für PC Kostenlos" jsname="kn3ccd" aria-hidden="false">
 
 Bye Bye! [ Cat Girl Voice :) ]
